@@ -1,37 +1,23 @@
-## Welcome to score pages
+## Welcome to the score page for classes taught by Assa Kesthy Rohana
 
-You can use the [editor on GitHub](https://github.com/assakrhn/pertama/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+nilai di update per-kelas sesuai tanggal yang tercantum di halaman nilai masing-masing kelas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```
+atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Nilai
 
-```markdown
-Syntax highlighted code block
+silahkan klik kelas anda
 
-# Header 1
-## Header 2
-### Header 3
+[Kabel Laut - XI Tel 01](https://help.github.com/categories/github-pages-basics/)
 
-- Bulleted
-- List
+[Kabel Laut - XI Tel 02](https://help.github.com/categories/github-pages-basics/)
 
-1. Numbered
-2. List
+[Produk Kreatif dan Kewirausahaan](https://help.github.com/categories/github-pages-basics/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Student of the Week
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/assakrhn/pertama/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

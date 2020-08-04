@@ -3,6 +3,7 @@
 nilai di update per-kelas sesuai tanggal yang tercantum di halaman nilai masing-masing kelas
 
 jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```,
+
 atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
 
@@ -12,8 +13,7 @@ silahkan klik kelas anda
 
 [Kabel Laut - XI Tel 01](https://docs.google.com/spreadsheets/d/e/2PACX-1vQknuQdQeUyRmgijNuJu83Wjt-f91AYRrRAXI6HAcmqK5ana2jAGbD7F7OrAtoDrQ/pubhtml?gid=846319441&single=true)
 
-[Kabel Laut - XI Tel 02](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLQ-sDCzMvVkY9y0vxIEj1YlqU_jkuApFk5fy9Krh2PsXKYlE3b69LDa9c62heWg/pubhtml)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLQ-sDCzMvVkY9y0vxIEj1YlqU_jkuApFk5fy9Krh2PsXKYlE3b69LDa9c62heWg/pubhtml?widget=true&amp;headers=false"></iframe>
+[Kabel Laut - XI Tel 02](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLQ-sDCzMvVkY9y0vxIEj1YlqU_jkuApFk5fy9Krh2PsXKYlE3b69LDa9c62heWg/pubhtml?gid=2110748155&single=true)
 
 [Produk Kreatif dan Kewirausahaan](https://help.github.com/categories/github-pages-basics/)
 

@@ -2,7 +2,7 @@
 
 nilai di update per-kelas sesuai tanggal yang tercantum di halaman nilai masing-masing kelas
 
-jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```
+jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```,
 atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
 

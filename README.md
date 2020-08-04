@@ -16,9 +16,3 @@ silahkan klik kelas anda
 [Kabel Laut - XI Tel 02](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLQ-sDCzMvVkY9y0vxIEj1YlqU_jkuApFk5fy9Krh2PsXKYlE3b69LDa9c62heWg/pubhtml?gid=2110748155&single=true)
 
 [Produk Kreatif dan Kewirausahaan](https://help.github.com/categories/github-pages-basics/)
-
-
-
-### Student of the Week
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/assakrhn/pertama/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.

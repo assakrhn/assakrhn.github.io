@@ -10,7 +10,7 @@ atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
 silahkan klik kelas anda
 
-[Kabel Laut - XI Tel 01](KABEL LAUT_XI-01.html)
+[Kabel Laut - XI Tel 01](https://drive.google.com/file/d/14Fds3H9IGi9HkL4xOeLqrPtb_yiX-U3G/view?usp=sharing)
 
 [Kabel Laut - XI Tel 02](https://help.github.com/categories/github-pages-basics/)
 

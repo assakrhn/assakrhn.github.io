@@ -1,6 +1,6 @@
 ## Welcome to the score page for classes taught by Assa Kesthy Rohana
 
-nilai di update pada 04 Agustus 2020 pukul 23.59
+nilai di update pada 07 Agustus 2020 pukul 18.00
 
 jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```,
 

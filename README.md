@@ -1,11 +1,12 @@
 ## Welcome to the score page for classes taught by Assa Kesthy Rohana
 
-nilai di update pada 30 Agustus 2020 pukul 07.00
+nilai di update pada 16 September 2020 pukul 02.00
 
 jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```,
 
 atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
+jika file nilai tidak bisa dibuka maka pastikan untuk log in gmail dengan email coorporate
 
 ### Nilai
 

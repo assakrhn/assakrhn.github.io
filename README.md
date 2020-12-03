@@ -12,8 +12,8 @@ jika file nilai tidak bisa dibuka maka pastikan untuk log in gmail dengan email 
 
 silahkan klik kelas anda
 
-[Kabel Laut - XI Tel 01](https://docs.google.com/spreadsheets/d/e/2PACX-1vQknuQdQeUyRmgijNuJu83Wjt-f91AYRrRAXI6HAcmqK5ana2jAGbD7F7OrAtoDrQ/pubhtml)
+[Kabel Laut - XI Tel 01](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrZ6XGaTWalba6PbE_XX_t08cKCxIhsYGXOo6WAnewUJyrDbZXxRNtpbBgKTFqJg/pubhtml?gid=1899438046&single=true)
 
-[Kabel Laut - XI Tel 02](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLQ-sDCzMvVkY9y0vxIEj1YlqU_jkuApFk5fy9Krh2PsXKYlE3b69LDa9c62heWg/pubhtml)
+[Kabel Laut - XI Tel 02](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUogByXlSYjMrhFHL4uQ0JH0gkRY78A3u2IYcfDb-e6cE6AT-DDOXOMULtwSR-bw/pubhtml?gid=960847127&single=true)
 
 [Produk Kreatif dan Kewirausahaan - XI Tel 12](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxbmwxkYHetMGn_ZSKQlBn0PdUsQNUZbOq4MsgUnQieaZqHWyyvfg68PDpQGrsFQ/pubhtml)

@@ -23,4 +23,8 @@ silahkan klik kelas anda
 
 [Produk Kreatif dan Kewirausahaan - XI Tel 12](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxbmwxkYHetMGn_ZSKQlBn0PdUsQNUZbOq4MsgUnQieaZqHWyyvfg68PDpQGrsFQ/pubhtml)
 
-[PAS TRANSMISI KELAS XII](https://docs.google.com/spreadsheets/d/e/2PACX-1vRypHRqBezXd2G7cPAC6Z4-g3QBVddZbRwcLfPhuN7Da4jq7F4nv_07ys5-I0ncXQ/pubhtml?gid=526774308&single=true)
+[KABEL LAUT - XII TEL 01](https://docs.google.com/spreadsheets/d/e/2PACX-1vQB15xOwiZgK-dIYXsfd0WXuL98iUCc-DTNrmzmNncYqPQl5P3Ew9GPdb8EMragRA/pubhtml)
+
+[KABEL LAUT - XII TEL 02](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqNrKjiOntzvTrpscpEJN50zYPhaMIKOyTFIzAlMxplpn_Y7YzzntTWGRjN9YVvA/pubhtml)
+
+[KABEL LAUT - XII TEL 03](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDXwXrLEpdJNAkGb_2ANw5N7NFiFRLj1FeLvN1hX_RwMrGF-q88E-cpajGX_M49Q/pubhtml)

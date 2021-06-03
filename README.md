@@ -20,4 +20,4 @@ silahkan klik kelas anda
 [Produk Kreatif dan Kewirausahaan - XI Tel 12](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxbmwxkYHetMGn_ZSKQlBn0PdUsQNUZbOq4MsgUnQieaZqHWyyvfg68PDpQGrsFQ/pubhtml)
 
 
-[Kabel Laut - Kelas XI angkatan 28] (https://docs.google.com/spreadsheets/d/e/2PACX-1vSUMPaH6IFUeAEvIHW9YkIy_XUWov4nmljEWGPtJKXASMp-dhp1gMcXKrq1txpVRg/pubhtml)
+[Kabel Laut - Kelas XI angkatan 28](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUMPaH6IFUeAEvIHW9YkIy_XUWov4nmljEWGPtJKXASMp-dhp1gMcXKrq1txpVRg/pubhtml)

@@ -12,3 +12,4 @@ silahkan klik kelas anda
 
 
 [DAFTAR NILAI XI TEL 2](https://drive.google.com/file/d/1lvn-cfqfgtbTmYbB0HzssvDxIhAROVUA/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1lvn-cfqfgtbTmYbB0HzssvDxIhAROVUA/view?usp=sharing" target="_blank">Go</a>

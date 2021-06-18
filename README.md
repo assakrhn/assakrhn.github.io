@@ -51,3 +51,7 @@ Membuat ulang 1 atau 2 slide pada pdf dibawah ini yang terdapat nama anda di pow
 Hafal lah struktur kabel bawah laut dengan mengerjakan quiz pada quizziz<br/>
 Jangan lupa cantumkan nama asli anda!
 <a href="https://quizizz.com/join?gc=11285578" target="_blank">link pengumpulan Tugas 6</a>
+
+### REMEDIAL DAN SUSULAN PAT
+Dilakukan dengan quizziz pada SABTU 19 JUNI 2021 pukul 08.00 sd 23.59<br/>
+LINK MENYUSUL

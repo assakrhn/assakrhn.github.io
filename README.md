@@ -56,7 +56,7 @@ Dilakukan dengan quizziz sampai MINGGU 20 JUNI 2021 pukul 23.59<br/>
 LINK : <a href="https://quizizz.com/join?gc=40753402" target="_blank">link quizizz</a>
 <br/><br/>
 
-<head><script data-ad-client="ca-pub-3978006814349230" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
+<head><script data-ad-client="ca-pub-3978006814349230" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ads bawah -->
 <ins class="adsbygoogle"
@@ -68,3 +68,4 @@ LINK : <a href="https://quizizz.com/join?gc=40753402" target="_blank">link quizi
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</head>

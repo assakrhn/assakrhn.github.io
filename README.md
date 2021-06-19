@@ -7,10 +7,10 @@ atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 ## NILAI
 <br/><br/>
 XI TEL 01<br/> 
-![xit1](https://user-images.githubusercontent.com/66667198/122556107-51f1af80-d065-11eb-82b1-9203009f41f8.png)
+![xi tel 1](https://user-images.githubusercontent.com/66667198/122639822-47e3b580-d126-11eb-9236-b71fb51af499.png)
 <br/><br/>
 XI TEL 02<br/>
-![xit2](https://user-images.githubusercontent.com/66667198/122556149-5cac4480-d065-11eb-945d-fe405d5f951e.png)
+![xi tel 2](https://user-images.githubusercontent.com/66667198/122639823-49ad7900-d126-11eb-8e7d-06984a486fc9.png)
 <br/><br/>
 
 ## DAFTAR TUGAS

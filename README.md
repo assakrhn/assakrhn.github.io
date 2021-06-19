@@ -53,5 +53,5 @@ Jangan lupa cantumkan nama asli anda!
 <a href="https://quizizz.com/join?gc=11285578" target="_blank">link pengumpulan Tugas 6</a>
 
 ### REMEDIAL DAN SUSULAN PAT
-Dilakukan dengan quizziz pada SABTU 19 JUNI 2021 pukul 08.00 sd 23.59<br/>
-LINK MENYUSUL
+Dilakukan dengan quizziz sampai MINGGU 20 JUNI 2021 pukul 23.59<br/>
+LINK : <a href="https://quizizz.com/join?gc=40753402" target="_blank">link quizizz</a>

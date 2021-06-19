@@ -5,7 +5,6 @@ jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```0
 atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
 ## NILAI
-<br/><br/>
 XI TEL 01<br/> 
 ![xi tel 1](https://user-images.githubusercontent.com/66667198/122639822-47e3b580-d126-11eb-9236-b71fb51af499.png)
 <br/><br/>
@@ -55,3 +54,6 @@ Jangan lupa cantumkan nama asli anda!
 ### REMEDIAL DAN SUSULAN PAT
 Dilakukan dengan quizziz sampai MINGGU 20 JUNI 2021 pukul 23.59<br/>
 LINK : <a href="https://quizizz.com/join?gc=40753402" target="_blank">link quizizz</a>
+<br/><br/>
+
+<head><script data-ad-client="ca-pub-3978006814349230" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -1,4 +1,4 @@
-# Welcome to the score page for classes taught by Assa Kesthy Rohana
+# Welcome to the score page for classes taught by Assa Kesthy Rohanaa
 
 jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```081291653213```,
 

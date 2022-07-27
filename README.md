@@ -14,12 +14,6 @@ XI TEL 02<br/>
 
 ## DAFTAR TUGAS
 
-### Tugas 1
-Bukalah PDF dibawah ini, cari tulisan angka kelas dan absen anda pada sebelah kiri paragraf (contoh 1-1 artinya XIT1 Absen 1)<br/>
-<a href="https://drive.google.com/file/d/1gcPtFijFyQQ1mx6rKwhTOSOAxHcTlu8k/view?usp=sharing" target="_blank">link PDF Tugas 1</a><br/>
-Buatlah satu pertanyaan pilihan ganda mengenai informasi yang terdapat pada paragraf yang terdapat angka kelas dan absen anda<br/><br/>
-<u>Submit</u> soal yang anda buat beserta pilihan jawaban (a, b, c, d) dan jawabannya di google classroom <a href="https://classroom.google.com/c/MTQyMTQ4NjgyMTE2/a/MjYxNDQ3NTM1ODgy/details" target="_blank">link pengumpulan Tugas 1</a>
-
 ### Tugas 2
 SAMA SEPERTI TUGAS 1 NAMUN BERBEDA SUMBER BACAAN<br/>
 <a href="https://drive.google.com/file/d/1KDwJ7fw_N6neh4saxaqsMdSQa55kyVGe/view?usp=sharing" target="_blank">link PDF Tugas 2</a><br/><br/>

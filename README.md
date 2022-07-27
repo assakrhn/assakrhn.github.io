@@ -4,12 +4,26 @@ jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```0
 
 atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
-## NILAI
-XI TEL 01<br/> 
-![xi tel 2(2)](https://user-images.githubusercontent.com/66667198/123086361-8bebf880-d44d-11eb-92b3-abb90b776ee0.png)
+## PRIVATE VIDEO
+### 1. Event Terbesar Telkom
+![Event terbesar telkom](https://img.youtube.com/vi/wZFxIgiMTWE/hqdefault.jpg)
+<br/>
+Video ini berisi tentang event terbesar telkom atau satellite<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=wZFxIgiMTWE" target="_bank">disini</a>
 <br/><br/>
-XI TEL 02<br/>
-![xi tel 1(2)](https://user-images.githubusercontent.com/66667198/123086376-8f7f7f80-d44d-11eb-9fbe-b2be4ff42611.png)
+
+### 2. Podcast produktivitas bersama ka imelda
+![Podcast produktivitas](https://img.youtube.com/vi/KrJmGcjteiA/hqdefault.jpg)
+<br/>
+Podcast tentang produktifitas bersama ka imelda<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=KrJmGcjteiA" target="_bank">disini</a>
+<br/><br/>
+
+### 3. Jobfair SMK Telkom jakarta
+![Jobfair SMK Telkom jakarta](https://img.youtube.com/vi/qMgrcOV2tMU/hqdefault.jpg)
+<br/>
+Jobfair di SMK Telkom Jakarta<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=qMgrcOV2tMU" target="_bank">disini</a>
 <br/><br/>
 
 ## DAFTAR TUGAS

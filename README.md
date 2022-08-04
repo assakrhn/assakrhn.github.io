@@ -4,27 +4,50 @@ jika ingin bertanya atau keberatan terkait nilai silahkan whatsapp ke nomor ```0
 
 atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
-## PRIVATE VIDEO
-### 1. Event Terbesar Telkom
-![Event terbesar telkom](https://img.youtube.com/vi/wZFxIgiMTWE/hqdefault.jpg)
+## TEFA
+### 1. Pelatihan Awal dari PT INTI
+![Pelatihan Awal dari PT INTI](https://img.youtube.com/vi/XGCX-jucuwA/hqdefault.jpg)
 <br/>
-Video ini berisi tentang event terbesar telkom atau satellite<br/>
-Link video klik <a href="https://www.youtube.com/watch?v=wZFxIgiMTWE" target="_bank">disini</a>
+Link video klik <a href="https://www.youtube.com/watch?v=XGCX-jucuwA" target="_bank">disini</a>
 <br/><br/>
 
-### 2. Podcast produktivitas bersama ka imelda
-![Podcast produktivitas](https://img.youtube.com/vi/KrJmGcjteiA/hqdefault.jpg)
+### 2. Pelatihan Intern S.O.P UJI FUNGSI, KLASIFIKASI REPAIR, IGI
+![Pelatihan Intern S.O.P UJI FUNGSI, KLASIFIKASI REPAIR, IGI](https://img.youtube.com/vi/SlvgbHJQiAQ/hqdefault.jpg)
 <br/>
-Podcast tentang produktifitas bersama ka imelda<br/>
-Link video klik <a href="https://www.youtube.com/watch?v=KrJmGcjteiA" target="_bank">disini</a>
+Link video klik <a href="https://www.youtube.com/watch?v=SlvgbHJQiAQ" target="_bank">disini</a>
 <br/><br/>
 
-### 3. Jobfair SMK Telkom jakarta
-![Jobfair SMK Telkom jakarta](https://img.youtube.com/vi/qMgrcOV2tMU/hqdefault.jpg)
+### 3. Pelatihan Intern Data dan Barcode
+![Pelatihan Intern Data dan Barcode](https://img.youtube.com/vi/oX5jKa9EaTE/hqdefault.jpg)
 <br/>
-Jobfair di SMK Telkom Jakarta<br/>
-Link video klik <a href="https://www.youtube.com/watch?v=qMgrcOV2tMU" target="_bank">disini</a>
+Link video klik <a href="https://www.youtube.com/watch?v=oX5jKa9EaTE" target="_bank">disini</a>
 <br/><br/>
+
+### 4. Pelatihan Intern Admin Laporan Harian
+![Pelatihan Intern Admin Laporan Harian](https://img.youtube.com/vi/HP5o8JT9yRY/hqdefault.jpg)
+<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=HP5o8JT9yRY" target="_bank">disini</a>
+<br/><br/>
+
+### 5. Pelatihan Intern Repair Membuka ONT
+![Pelatihan Intern Repair Membuka ONT](https://img.youtube.com/vi/PIz6Vlq8xBU/hqdefault.jpg)
+<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=PIz6Vlq8xBU" target="_bank">disini</a>
+<br/><br/>
+
+## PELATIHAN ONLINE
+### 1. Maintenance of Splicer
+![Maintenance of Splicer](https://img.youtube.com/vi/vYloG6TG8BQ/hqdefault.jpg)
+<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=vYloG6TG8BQ" target="_bank">disini</a>
+<br/><br/>
+
+### 2. Spectrum Analyzer Rigol DSA832E
+![Spectrum Analyzer Rigol DSA832E](https://img.youtube.com/vi/HUx7t6bbEA4/hqdefault.jpg)
+<br/>
+Link video klik <a href="https://www.youtube.com/watch?v=HUx7t6bbEA4" target="_bank">disini</a>
+<br/><br/>
+
 
 ## DAFTAR TUGAS
 

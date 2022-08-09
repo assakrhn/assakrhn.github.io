@@ -6,47 +6,45 @@ atau email ke ```assakesthyrohana@smktelkom-jkt.sch.id```
 
 ## TEFA
 ### 1. Pelatihan Awal dari PT INTI
-![Pelatihan Awal dari PT INTI](https://img.youtube.com/vi/XGCX-jucuwA/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/XGCX-jucuwA"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=XGCX-jucuwA" target="_bank">disini</a>
 <br/><br/>
 
 ### 2. Pelatihan Intern S.O.P UJI FUNGSI, KLASIFIKASI REPAIR, IGI
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/SlvgbHJQiAQ">
-</iframe>
-![Pelatihan Intern S.O.P UJI FUNGSI, KLASIFIKASI REPAIR, IGI](https://img.youtube.com/vi/SlvgbHJQiAQ/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/SlvgbHJQiAQ"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=SlvgbHJQiAQ" target="_bank">disini</a>
 <br/><br/>
 
 ### 3. Pelatihan Intern Data dan Barcode
-![Pelatihan Intern Data dan Barcode](https://img.youtube.com/vi/oX5jKa9EaTE/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/oX5jKa9EaTE"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=oX5jKa9EaTE" target="_bank">disini</a>
 <br/><br/>
 
 ### 4. Pelatihan Intern Admin Laporan Harian
-![Pelatihan Intern Admin Laporan Harian](https://img.youtube.com/vi/HP5o8JT9yRY/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/HP5o8JT9yRY"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=HP5o8JT9yRY" target="_bank">disini</a>
 <br/><br/>
 
 ### 5. Pelatihan Intern Repair Membuka ONT
-![Pelatihan Intern Repair Membuka ONT](https://img.youtube.com/vi/PIz6Vlq8xBU/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/PIz6Vlq8xBU"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=PIz6Vlq8xBU" target="_bank">disini</a>
 <br/><br/>
 
 ## PELATIHAN ONLINE
 ### 1. Maintenance of Splicer
-![Maintenance of Splicer](https://img.youtube.com/vi/vYloG6TG8BQ/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/vYloG6TG8BQ"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=vYloG6TG8BQ" target="_bank">disini</a>
 <br/><br/>
 
 ### 2. Spectrum Analyzer Rigol DSA832E
-![Spectrum Analyzer Rigol DSA832E](https://img.youtube.com/vi/HUx7t6bbEA4/hqdefault.jpg)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/HUx7t6bbEA4"></iframe>
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=HUx7t6bbEA4" target="_bank">disini</a>
 <br/><br/>

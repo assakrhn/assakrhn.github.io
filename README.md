@@ -12,6 +12,9 @@ Link video klik <a href="https://www.youtube.com/watch?v=XGCX-jucuwA" target="_b
 <br/><br/>
 
 ### 2. Pelatihan Intern S.O.P UJI FUNGSI, KLASIFIKASI REPAIR, IGI
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/SlvgbHJQiAQ">
+</iframe>
 ![Pelatihan Intern S.O.P UJI FUNGSI, KLASIFIKASI REPAIR, IGI](https://img.youtube.com/vi/SlvgbHJQiAQ/hqdefault.jpg)
 <br/>
 Link video klik <a href="https://www.youtube.com/watch?v=SlvgbHJQiAQ" target="_bank">disini</a>
